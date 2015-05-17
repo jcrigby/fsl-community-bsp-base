@@ -58,3 +58,7 @@ The following layers are included on this release:
    Mailing list: https://lists.yoctoproject.org/listinfo/meta-freescale
    Note: Use [meta-fsl-demos] in subject to easy the processing
 
+ * meta-axsense: mx28pcb support
+   Path: sources/meta-axsense
+   Project: https://github.com/jcrigby/meta-axsense
+   GIT: git://github.com/jcrigby/meta-axsense
